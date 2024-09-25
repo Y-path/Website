@@ -1,0 +1,50 @@
+.navbar-brand {
+    color: yellow;    
+}
+
+.navbar-brand:hover {
+    color: red;
+}
+
+.nav-link.active.active {
+    color: white;
+  }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 32px;
+    margin-bottom: 20px;  
+  }  
+
+  button.btn-primary {
+    background-color: red;  
+  }
+
+  h5 {
+    font-size: larger;
+  } 
+ 
+.container {
+    width: 70%;
+    margin-top: 32px;
+}
+
+.fa {
+    padding: 15px;
+    font-size: 30px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  .fa-instagram, .fa-facebook, .fa-linkedin {  
+    color: white;
+  }
+
+ 
